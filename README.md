@@ -59,7 +59,7 @@ Task existing = registry.get(taskName)
 - Discuss what became simpler or safer
 
 ---
-
+[TEST_README.md](TEST_README.md)
 ## Part 2: Homework Assignment
 
 ### Part A: Extend the Command System
